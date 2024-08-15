@@ -1,0 +1,12 @@
+l = [1,2,4,100,1024]
+print(l)
+l.append(78)
+print(l)
+l.append(4)
+print(l)
+l.remove(1024)
+print(l)
+l.remove(4)
+print(l)
+l.remove(4)
+print(l)
